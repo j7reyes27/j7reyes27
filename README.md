@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jerry Reyes!
+# 👋 Hi, I'm Jerry!
 
 ### 🚀 Frontend Developer | React | TypeScript | UI/UX
 
@@ -8,6 +8,8 @@
 - 🔹 Integrated **TMDB API** to create a movie search app with rating & list features.
 - 🔹 Implemented **Redux & Context API** for global state management.
 - 🎨 Passionate about **responsive design, animations (GSAP), and performance optimization**.
+
+
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -25,11 +27,7 @@
 🌍 **Portfolio:** [AIDA Frontend](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 
----
 
-### **Korean Version**  
-
-```md
 # 👋 안녕하세요, 제리 레예스입니다!
 
 ### 🚀 프론트엔드 개발자 | React | TypeScript | UI/UX
