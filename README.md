@@ -19,13 +19,13 @@
 
 ### 📌 Featured Projects
 - **[AIDA Frontend](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Scalable rental management UI.
-- **[Movie Search App](https://github.com/yourrepo)** - TMDB API-based movie listing platform.
-- **[Interactive Blog Platform](https://github.com/yourrepo)** - Full CRUD functionality with user authentication.
+- **[Movie Search App]([https://github.com/yourrepo](https://movie-application-gules.vercel.app/))** - TMDB API-based movie listing platform.
+- **[Interactive Blog Platform]([https://github.com/yourrepo](https://blog-platform-livid-one.vercel.app/?page=1))** - Full CRUD functionality with user authentication.
+
 
 ### 📫 Contact Me
 📩 **Email:** j7reyes27@gmail.com  
-🌍 **Portfolio:** [AIDA Frontend](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+📞**Phone Number** +82-010-9624-3775 
 
 
 # 👋 안녕하세요, 제리 레예스입니다!
@@ -47,10 +47,9 @@
 
 ### 📌 주요 프로젝트
 - **[AIDA 프론트엔드](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - 확장 가능한 렌탈 관리 UI.
-- **[영화 검색 앱](https://github.com/yourrepo)** - TMDB API 기반의 영화 리스트 플랫폼.
-- **[인터랙티브 블로그 플랫폼](https://github.com/yourrepo)** - 사용자 인증 및 CRUD 기능 포함.
+- **[Movie Search App]([https://github.com/yourrepo](https://movie-application-gules.vercel.app/))** - TMDB API 기반의 영화 리스트 플랫폼.
+- **[인터랙티브 블로그 플랫폼]([https://github.com/yourrepo](https://blog-platform-livid-one.vercel.app/?page=1))** - 사용자 인증 및 CRUD 기능 포함.
 
 ### 📫 연락처
-📩 **이메일:** j7reyes27@gmail.com  
-🌍 **포트폴리오:** [AIDA 프론트엔드](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+📩 **이메일:** j7reyes27@gmail.com 
+📞**전화번호** +82-010-9624-3775 
