@@ -47,7 +47,7 @@
 
 ### 📌 주요 프로젝트
 - **[AIDA 프론트엔드](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - 확장 가능한 렌탈 관리 UI.
-- **[Movie Search App](https://movie-application-gules.vercel.app/))** - TMDB API 기반의 영화 리스트 플랫폼.
+- **[영화 검색 앱](https://movie-application-gules.vercel.app/))** - TMDB API 기반의 영화 리스트 플랫폼.
 - **[인터랙티브 블로그 플랫폼](https://blog-platform-livid-one.vercel.app/?page=1))** - 사용자 인증 및 CRUD 기능 포함.
 
 ### 📫 연락처
