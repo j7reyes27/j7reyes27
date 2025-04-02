@@ -16,10 +16,10 @@
 
 🛠 Tech Stack
 
-
-
-
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 🖥️ Projects for My Current Company
 
@@ -37,7 +37,11 @@ Interactive Blog Platform – Focused on comprehensive CRUD operations, user int
 
 📫 Contact Me
 
-📩 Email: j7reyes27@gmail.com📞 Phone: +82-010-9624-3775🌐 Portfolio (Work in Progress! 😊)
+📩 Email: j7reyes27@gmail.com
+📞 Phone: +82-010-9624-3775
+🌐 Portfolio (Work in Progress! 😊)
+
+
 
 👋 안녕하세요, 프론트엔드 개발자 제리 레예스입니다!
 
@@ -56,11 +60,10 @@ Interactive Blog Platform – Focused on comprehensive CRUD operations, user int
 🎨 반응형 디자인, GSAP 애니메이션 및 성능 최적화를 통해 사용자에게 매력적인 경험을 제공하는 것에 열정을 가지고 있습니다.
 
 🛠 기술 스택
-
-
-
-
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 🖥️ 회사 주요 프로젝트
 
@@ -71,6 +74,16 @@ AI 채팅 애플리케이션 – 실시간 AI 채팅을 위한 고급 상태 관
 AIDA 프론트엔드 – 면접 준비 앱 개발 (TailwindCSS 사용).
 
 📌 개인 프로젝트
+
+영화 검색 앱 – 공공 API, 로딩 애니메이션 및 사용자 평가 기능 활용.
+
+인터랙티브 블로그 플랫폼 – 포괄적 CRUD, 사용자 상호작용, 원활한 게시글 관리 중점.
+
+📫 연락처
+
+📩 이메일: j7reyes27@gmail.com
+📞 전화번호: +82-010-9624-3775
+🌐 포트폴리오 (작업 중입니다! 😊)
 
 영화 검색 앱 – 공공 API, 로딩 애니메이션 및 사용자 평가 기능 활용.
 
