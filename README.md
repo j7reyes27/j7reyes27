@@ -20,7 +20,7 @@
 ### 📌 Featured Projects
 - **[AIDA Frontend](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Scalable rental management UI.
 - **[Movie Search App](https://movie-application-gules.vercel.app/))** - TMDB API-based movie listing platform.
-- **[Interactive Blog Platform]((https://blog-platform-livid-one.vercel.app/?page=1))** - Full CRUD functionality with user authentication.
+- **[Interactive Blog Platform](https://blog-platform-livid-one.vercel.app/?page=1)** - Full CRUD functionality with user authentication.
 
 
 ### 📫 Contact Me
