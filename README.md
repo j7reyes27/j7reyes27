@@ -30,7 +30,7 @@
 ### 📫 Contact Me
 📩 **Email:** j7reyes27@gmail.com  
 📞**Phone Number** +82-010-9624-3775 
-🌐 **[Portfolio](https://portfolio-7wdf3naiv-jerrys-projects-78bb1135.vercel.app/)** (Work in Progress! 😊)
+🌐 **[Portfolio](https://portfolio-jerrys-projects-78bb1135.vercel.app/)** (Work in Progress! 😊)
 
 # 👋 안녕하세요, 제리입니다!
 
@@ -61,4 +61,4 @@
 ### 📫 연락처
 📩 **이메일:** j7reyes27@gmail.com  
 📞 **전화번호:** +82-010-9624-3775  
-🌐 **[포트폴리오](https://portfolio-7wdf3naiv-jerrys-projects-78bb1135.vercel.app/)** (작업 중입니다! 😊)
+🌐 **[포트폴리오](https://portfolio-jerrys-projects-78bb1135.vercel.app/)** (작업 중입니다! 😊)
