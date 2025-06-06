@@ -27,11 +27,12 @@
 - **[Interactive Blog Platform](https://blog-platform-livid-one.vercel.app/?page=1)** - Full CRUD functionality with user authentication for creating, favoriting, and deleting articles. 
 
 
-### 📫 Contact Me
+### 📫 Contact Me  
 📩 **Email:** j7reyes27@gmail.com  
-📞**Phone Number** +82-010-9624-3775 
-🗣️ Note: I am currently not fluent in Korean, but I’m open to learning and improving.
+📞 **Phone Number** +82-010-9624-3775  
+🗣️ Note: I am currently not fluent in Korean, but I’m open to learning and improving.  
 🌐 **[Portfolio](https://portfolio-jerrys-projects-78bb1135.vercel.app/)** (Work in Progress! 😊)
+
 
 
 # 👋 안녕하세요, 제리입니다!
@@ -65,4 +66,3 @@
 📞 **전화번호:** +82-010-9624-3775  
 🗣️ 참고: 현재 한국어에는 능숙하지 않지만, 배우고 향상할 의지가 있습니다.
 🌐 **[포트폴리오](https://portfolio-jerrys-projects-78bb1135.vercel.app/)** (작업 중입니다! 😊)
-
