@@ -20,7 +20,7 @@
 ### 🖥️ Projects for My Current Company
 - **[Interview Preparation App Clone](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Interview Preparation App featuring Tailwind Utility Animations and Prop Drilling. 
 - **[E-Learning Platform](https://youtu.be/cA8hFePShEs)** - Developed the UI for an E-learning Platform. 
-- **[AI Assisted Educational Chat]([https://youtu.be/cA8hFePShEs](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun))** - Utilized state management to develop an adaptive chat that syncs with AI. 
+- **[AI Assisted Educational Chat](https://youtu.be/cA8hFePShEs](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun)** - Utilized state management to develop an adaptive chat that syncs with AI. 
 
 ### 📌 Personal Projects
 - **[Movie Search App](https://movie-application-gules.vercel.app/)** - TMDB API-based utilizing loading spinners and a Public API. 
