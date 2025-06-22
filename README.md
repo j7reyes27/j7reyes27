@@ -20,7 +20,7 @@
 ### 🖥️ Projects for My Current Company
 - **[Interview Preparation App Clone](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Interview Preparation App featuring Tailwind Utility Animations and Prop Drilling. 
 - **[E-Learning Platform](https://youtu.be/cA8hFePShEs)** - Developed the UI for an E-learning Platform. 
-- **[AI Assisted Educational Chat](https://youtu.be/cA8hFePShEs)** - Utilized state management to develop an adaptive chat that syncs with AI. 
+- **[AI Assisted Educational Chat]([https://youtu.be/cA8hFePShEs](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun))** - Utilized state management to develop an adaptive chat that syncs with AI. 
 
 ### 📌 Personal Projects
 - **[Movie Search App](https://movie-application-gules.vercel.app/)** - TMDB API-based utilizing loading spinners and a Public API. 
@@ -55,7 +55,7 @@
 ### 🖥️ 회사 주요 프로젝트
 - **[면접 준비 앱 클론](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Tailwind 유틸리티 애니메이션 및 Prop Drilling을 활용한 면접 준비 앱
 - **[E-러닝 플랫폼](https://youtu.be/cA8hFePShEs)** - E-러닝 플랫폼 UI 개발
-- **[AI 기반 교육 채팅](https://youtu.be/cA8hFePShEs)** - 상태 관리를 이용하여 AI와 연동되는 적응형 채팅 기능 구현
+- **[AI 기반 교육 채팅]([https://youtu.be/cA8hFePShEs](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun))** - 상태 관리를 이용하여 AI와 연동되는 적응형 채팅 기능 구현
 
 ### 📌 개인 프로젝트
 - **[영화 검색 앱](https://movie-application-gules.vercel.app/)** - 로딩 스피너와 공공 API를 활용한 TMDB API 기반
