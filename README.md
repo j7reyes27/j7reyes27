@@ -22,11 +22,6 @@
 - **[E-Learning Platform](https://youtu.be/cA8hFePShEs)** - Developed the UI for an E-learning Platform. 
 - **[AI Assisted Educational Chat](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun)** - Utilized state management to develop an adaptive chat that syncs with AI. 
 
-### 📌 Personal Projects
-- **[Movie Search App](https://movie-application-gules.vercel.app/)** - TMDB API-based utilizing loading spinners and a Public API. 
-- **[Interactive Blog Platform](https://blog-platform-livid-one.vercel.app/?page=1)** - Full CRUD functionality with user authentication for creating, favoriting, and deleting articles. 
-
-
 ### 📫 Contact Me  
 📩 **Email:** j7reyes27@gmail.com  
 📞 **Phone Number** +82-010-9624-3775  
@@ -56,10 +51,6 @@
 - **[면접 준비 앱 클론](https://aida-frontend-j7reyes27-jerrys-projects-78bb1135.vercel.app/)** - Tailwind 유틸리티 애니메이션 및 Prop Drilling을 활용한 면접 준비 앱
 - **[E-러닝 플랫폼](https://youtu.be/cA8hFePShEs)** - E-러닝 플랫폼 UI 개발
 - **[AI 기반 교육 채팅](https://www.youtube.com/watch?v=QfrZ4g7tdHw&list=WL&index=2&ab_channel=VladiMun)** - 상태 관리를 이용하여 AI와 연동되는 적응형 채팅 기능 구현
-
-### 📌 개인 프로젝트
-- **[영화 검색 앱](https://movie-application-gules.vercel.app/)** - 로딩 스피너와 공공 API를 활용한 TMDB API 기반
-- **[인터랙티브 블로그 플랫폼](https://blog-platform-livid-one.vercel.app/?page=1)** - 사용자 인증을 통한 게시글 작성, 즐겨찾기 및 삭제를 위한 전체 CRUD 기능
 
 ### 📫 연락처  
 📩 **이메일:** j7reyes27@gmail.com  
