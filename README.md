@@ -3,7 +3,6 @@
 ### 🚀 Frontend Developer | React | TypeScript | UI/UX
 
 - 💻 Experienced in **building scalable, interactive web applications** using **React, TypeScript, and SCSS**.
-- 🔹 Developed **rental management platform UI** with multilingual support (English/Spanish).
 - 🔹 Built a **blog platform** with API calls, user authentication, and post management.
 - 🔹 Integrated **TMDB API** to create a movie search app with rating & list features.
 - 🔹 Implemented **Redux & Context API** for global state management.
@@ -35,7 +34,6 @@
 ### 🚀 프론트엔드 개발자 | React | TypeScript | UI/UX
 
 - 💻 **React, TypeScript, SCSS**를 사용하여 **확장 가능하고 인터랙티브한 웹 애플리케이션** 개발 경험이 있습니다.
-- 🔹 다국어(영어/스페인어)를 지원하는 **렌탈 관리 플랫폼 UI**를 개발했습니다.
 - 🔹 API 연동, 사용자 인증 및 게시물 관리 기능을 갖춘 **블로그 플랫폼**을 제작했습니다.
 - 🔹 영화 평가 및 리스트 기능을 가진 **영화 검색 앱**을 만들기 위해 **TMDB API**를 연동했습니다.
 - 🔹 글로벌 상태 관리를 위해 **Redux 및 Context API**를 사용했습니다.
